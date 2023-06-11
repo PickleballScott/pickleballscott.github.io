@@ -1,0 +1,29 @@
+name: ""
+output_dir: "."
+navbar:
+  title: "Pickleball Scott"
+  left:
+    - text: Home
+      href: index.html
+  right:
+    - icon: fab fa-youtube fa-lg
+      href: https://www.youtube.com/@piscatawaypickleball/featured
+    - icon: fab fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/pickleballscott/
+    - icon: fab fa-facebook fa-lg
+      href: https://www.facebook.com/profile.php?id=100093797400402
+    - icon: fab fa-instagram fa-lg
+      href: https://www.instagram.com/pickleballscott/
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/scottchencheng
+    - icon: fab fa-tiktok fa-lg
+      href: https://www.tiktok.com/@pickleballscott
+    - icon: fab fa-twitch fa-lg
+      href: https://www.twitch.tv/pickleballscott
+    - icon: fas fa-globe-americas fa-lg
+      href: http://pickleballscott.com/
+    - icon: fab fa-github fa-lg
+      href: https://github.com/PickleballScott/pickleballscott.github.io
+output:
+  html_document:
+    theme: yeti
